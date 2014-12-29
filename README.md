@@ -9,3 +9,11 @@ NewsBot
 * http://slashdot.org/
 
 Need some form of rate limiter - no more than x stories per day based on conversation levels in channel.
+
+**Development:**
+
+* Maybe Ruby with cinch
+* Might need some way to:
+  * Parse JSON
+  * Parse XML/RSS
+  * Scrape webpages
